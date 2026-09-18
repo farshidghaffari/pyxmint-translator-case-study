@@ -2,7 +2,7 @@
 
 ## Scope
 
-This repository is private staging for a documentation-only case study. Content is drafted for a possible future public review, but this does not authorize publication. Keep the repository private and the documentation PR unmerged pending owner review.
+This repository contains documentation and conceptual diagrams presented as portfolio/reference material. Application implementation and private operational material are outside its scope.
 
 ## Included
 
@@ -22,8 +22,18 @@ An optional transcript does not establish whether data is stored, deleted, retai
 
 ## Visual policy
 
-Follow the permanent Global Visual Realism Policy: prefer authentic safe screenshots or photographs, then useful technical diagrams. No approved safe screenshot is included in this package, so it uses diagrams only. Both SVGs are explicitly conceptual. There are no UI mockups or photographs. See [screenshot policy](../assets/screenshots/README.md).
+Follow the permanent Global Visual Realism Policy: prefer authentic safe screenshots or photographs, then useful technical diagrams. No approved safe screenshot is included in this package, so it uses diagrams only. Both SVGs are explicitly conceptual. The [system and disclosure boundaries diagram](../assets/diagrams/system-boundaries.svg) describes this documentation scope. There are no UI mockups or photographs. See [screenshot policy](../assets/screenshots/README.md).
 
 ## Review and release boundary
 
-Review claims against the [evidence register](evidence-register.md). Any later new evidence needs independent privacy and claim checks. A private PR does not authorize a merge, visibility change or release of the implementation. No public release is part of this work.
+Review claims against the [evidence register](evidence-register.md). Any later new evidence needs independent privacy and claim checks. Publication of the case-study documentation does not include or authorize release of the private implementation. Any change to repository visibility requires a separate owner decision.
+
+## Portfolio use
+
+© 2026 Farshid Ghaffari.
+Documentation and diagrams are presented as portfolio/reference material.
+Reuse or redistribution requires permission.
+
+This is not an open-source license.
+
+[Back to case study](../README.md)
