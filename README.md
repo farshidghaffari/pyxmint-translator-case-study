@@ -6,11 +6,21 @@
 
 By Farshid Ghaffari — AI-Leveraged Workflow & Business Systems Specialist.
 
-This case study explains the problem, conversation workflow, product decisions and field observations. It contains no application implementation. The current review is staged privately; public release requires a separate owner decision.
+This documentation-only case study presents the problem, conversation workflow, product decisions and field observations as portfolio/reference material.
 
 ## Problem
 
 Face-to-face conversation across languages needs more than an isolated translated sentence: people need a workable way to take turns and keep a conversation moving. PyxMint explores that workflow in a browser.
+
+## AI-assisted implementation and role
+
+Farshid identified the product problem, designed the conversation workflow, made product/system decisions, used AI-assisted implementation, tested real-world behavior, reviewed failures and iterated the product.
+
+The evidence is problem-solving, workflow decisions and validation of a usable MVP. No claim is made that Farshid independently hand-coded every component.
+
+## Available evidence
+
+Available evidence: a documented conversation workflow, conceptual diagrams, qualitative café field observations and a proposed test matrix. Application source, real transcripts and private operational data are excluded.
 
 ## Existing friction / bottleneck
 
@@ -27,14 +37,6 @@ The diagram abstracts interaction responsibilities. It is not a screen capture, 
 ## System design — DOCUMENTED DESIGN
 
 The documented scope is the user-facing conversation workflow: push-to-talk, multilingual translation, an optional transcript and an active-speaking time allowance. This case study deliberately stops at functional boundaries. It does not assert provider choices, service topology, storage behavior or deployment details.
-
-![Conceptual system and disclosure boundaries](assets/diagrams/system-boundaries.svg)
-
-## AI-assisted implementation and role
-
-Farshid identified the product problem, designed the conversation workflow, made product/system decisions, used AI-assisted implementation, tested real-world behavior, reviewed failures and iterated the product.
-
-The evidence is problem-solving, workflow decisions and validation of a usable MVP. No claim is made that Farshid independently hand-coded every component.
 
 ## Testing and iteration — OBSERVED
 
@@ -70,3 +72,17 @@ A future matrix would vary language direction, live versus synthetic input, quie
 - [Screenshot policy](assets/screenshots/README.md)
 
 There is no runnable application or setup procedure in this repository. The SVGs are functional editorial diagrams, not product screenshots or field-test photographs.
+
+## More work
+
+This case study is one example of my work in workflow design, practical business systems and testing under real conditions.
+
+[Portfolio — Farshid Ghaffari](https://farshidghaffari.net)
+
+## Portfolio use
+
+© 2026 Farshid Ghaffari.
+Documentation and diagrams are presented as portfolio/reference material.
+Reuse or redistribution requires permission.
+
+This is not an open-source license.
