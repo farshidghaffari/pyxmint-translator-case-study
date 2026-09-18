@@ -18,7 +18,7 @@ The design problem is the effort of coordinating speaking, translation and the n
 
 ## Workflow design — DOCUMENTED DESIGN
 
-PyxMint uses a browser-based, push-to-talk conversation workflow, with an optional transcript and an active-speaking allowance. The MVP includes Persian, Armenian, English, German and Russian. Listing languages does not imply equal quality, or validation of every direction between them.
+PyxMint uses a browser-based, push-to-talk conversation workflow, with an optional transcript and an active-speaking time allowance. The MVP includes Persian, Armenian, English, German and Russian. Listing languages does not imply equal quality, or validation of every direction between them.
 
 ![Conceptual conversation flow; not product UI](assets/diagrams/conversation-flow.svg)
 
@@ -26,7 +26,7 @@ The diagram abstracts interaction responsibilities. It is not a screen capture, 
 
 ## System design — DOCUMENTED DESIGN
 
-The documented scope is the user-facing conversation workflow: push-to-talk, multilingual translation, an optional transcript and an active-speaking allowance. This case study deliberately stops at functional boundaries. It does not assert provider choices, service topology, storage behavior or deployment details.
+The documented scope is the user-facing conversation workflow: push-to-talk, multilingual translation, an optional transcript and an active-speaking time allowance. This case study deliberately stops at functional boundaries. It does not assert provider choices, service topology, storage behavior or deployment details.
 
 ![Conceptual system and disclosure boundaries](assets/diagrams/system-boundaries.svg)
 

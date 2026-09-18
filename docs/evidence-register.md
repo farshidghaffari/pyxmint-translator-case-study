@@ -13,7 +13,7 @@ Source S1: owner-approved facts and role framing supplied for the PyxMint docume
 | E03 | DOCUMENTED DESIGN | Persian, Armenian, English, German and Russian | S1; no equal quality or all-directions validation |
 | E04 | DOCUMENTED DESIGN | Push-to-talk workflow | S1; no undocumented turn-detection behavior |
 | E05 | DOCUMENTED DESIGN | Optional transcript | S1; no retention/storage assertion |
-| E06 | DOCUMENTED DESIGN | Active-speaking allowance | S1; no amount, pricing or accounting detail |
+| E06 | DOCUMENTED DESIGN | Active-speaking time allowance | S1; no amount, pricing or accounting detail |
 | E07 | OBSERVED | Café field testing in Gyumri | S1; no venue, participant, session or private usage detail |
 | E08 | OBSERVED | Noisy-input observations | S1; no causal diagnosis |
 | E09 | OBSERVED | Armenian → Persian sentence-start issues in some attempts | S1; no rate or resolution claim |

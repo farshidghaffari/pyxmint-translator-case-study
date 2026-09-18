@@ -10,7 +10,7 @@ This is a conceptual view of approved user-facing behavior, not a reverse-engine
 | Turn input | Push-to-talk | No automatic turn detection or interruption behavior is claimed |
 | Languages | Persian, Armenian, English, German and Russian | No equal-quality or all-directions validation claim |
 | Transcript | Optional | No retention, persistence, deletion or export guarantee |
-| Speaking allowance | Active-speaking allowance | No amount, pricing or accounting algorithm disclosed |
+| Speaking allowance | Active-speaking time allowance | No amount, pricing or accounting algorithm disclosed |
 
 ![Conceptual conversation flow](../assets/diagrams/conversation-flow.svg)
 

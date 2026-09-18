@@ -18,7 +18,7 @@ Owner-approved product scope, role wording, qualitative field observations, clea
 
 ## Feature claims are not privacy guarantees
 
-An optional transcript does not establish whether data is stored, deleted, retained or exported. An active-speaking allowance does not establish billing, identity or enforcement details. The diagrams do not assert network isolation, security architecture or provider behavior.
+An optional transcript does not establish whether data is stored, deleted, retained or exported. An active-speaking time allowance does not establish billing, identity or enforcement details. The diagrams do not assert network isolation, security architecture or provider behavior.
 
 ## Visual policy
 

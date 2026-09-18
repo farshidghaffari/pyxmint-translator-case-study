@@ -6,9 +6,9 @@ PyxMint addresses a face-to-face conversation workflow across languages. The des
 
 ## DOCUMENTED DESIGN
 
-The approved scope is a browser-based conversation MVP with push-to-talk, an optional transcript and an active-speaking allowance. The language set is Persian, Armenian, English, German and Russian. Coverage is not evidence of equal performance or tested support for every language direction.
+The approved scope is a browser-based conversation MVP with push-to-talk, an optional transcript and an active-speaking time allowance. The language set is Persian, Armenian, English, German and Russian. Coverage is not evidence of equal performance or tested support for every language direction.
 
-An active-speaking allowance is an approved product feature. Its numeric amount, accounting algorithm, reset rules and commercial terms are not specified here. Optional transcript describes the user-facing feature; it does not establish retention, deletion or storage behavior.
+An active-speaking time allowance is an approved product feature. Its numeric amount, accounting algorithm, reset rules and commercial terms are not specified here. Optional transcript describes the user-facing feature; it does not establish retention, deletion or storage behavior.
 
 ## OBSERVED constraints
 
