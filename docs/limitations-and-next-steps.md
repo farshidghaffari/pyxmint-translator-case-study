@@ -6,7 +6,7 @@ PyxMint is a working, field-tested MVP. Approved evidence is qualitative and own
 
 No causal diagnosis is established for noisy-input or sentence-start behavior. The synthetic/live contrast is not documented as a controlled comparison. Longer-turn observations do not quantify delay. No automated test coverage, deployment/security guarantee, data-retention guarantee or comprehensive browser/device support is claimed.
 
-## PROPOSED NEXT TESTS — not executed
+## PROPOSED NEXT TESTS | not executed
 
 | Dimension | Proposed cases | Proposed observation |
 | --- | --- | --- |
