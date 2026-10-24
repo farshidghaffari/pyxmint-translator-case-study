@@ -1,6 +1,6 @@
 # System design
 
-## DOCUMENTED DESIGN — functional scope
+## DOCUMENTED DESIGN | functional scope
 
 This is a conceptual view of approved user-facing behavior, not a reverse-engineered architecture or private implementation description.
 
