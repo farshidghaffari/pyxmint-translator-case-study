@@ -4,7 +4,7 @@
 
 **Working, field-tested MVP · Documentation-only case study**
 
-By Farshid Ghaffari — AI-Leveraged Workflow & Business Systems Specialist.
+By Farshid Ghaffari | AI-Leveraged Workflow & Business Systems Specialist.
 
 This documentation-only case study presents the problem, conversation workflow, product decisions and field observations as portfolio/reference material.
 
@@ -26,7 +26,7 @@ Available evidence: a documented conversation workflow, conceptual diagrams, qua
 
 The design problem is the effort of coordinating speaking, translation and the next turn. Field testing also exposed noisy-input difficulties, sentence-start issues in some Armenian → Persian attempts and more noticeable latency on longer turns. These are qualitative observations, not measured productivity or accuracy results.
 
-## Workflow design — DOCUMENTED DESIGN
+## Workflow design | DOCUMENTED DESIGN
 
 PyxMint uses a browser-based, push-to-talk conversation workflow, with an optional transcript and an active-speaking time allowance. The MVP includes Persian, Armenian, English, German and Russian. Listing languages does not imply equal quality, or validation of every direction between them.
 
@@ -34,11 +34,11 @@ PyxMint uses a browser-based, push-to-talk conversation workflow, with an option
 
 The diagram abstracts interaction responsibilities. It is not a screen capture, an implementation sequence trace or a guarantee about failure recovery. See [system design](docs/system-design.md) and [key decisions](docs/key-decisions.md).
 
-## System design — DOCUMENTED DESIGN
+## System design | DOCUMENTED DESIGN
 
 The documented scope is the user-facing conversation workflow: push-to-talk, multilingual translation, an optional transcript and an active-speaking time allowance. This case study deliberately stops at functional boundaries. It does not assert provider choices, service topology, storage behavior or deployment details.
 
-## Testing and iteration — OBSERVED
+## Testing and iteration | OBSERVED
 
 Café field testing took place in Gyumri. Approved qualitative observations include noisy-input difficulties, Armenian → Persian sentence-start issues in some attempts, better performance with synthetic Armenian input than in some live/noisy attempts, and more noticeable latency with longer turns.
 
@@ -77,7 +77,7 @@ There is no runnable application or setup procedure in this repository. The SVGs
 
 This case study is one example of my work in workflow design, practical business systems and testing under real conditions.
 
-[Portfolio — Farshid Ghaffari](https://farshidghaffari.net)
+[Portfolio | Farshid Ghaffari](https://farshidghaffari.net)
 
 ## Portfolio use
 
